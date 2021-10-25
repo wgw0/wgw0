@@ -1,4 +1,9 @@
-### Hi there 👋
+## William Woods
+### Student at the University of Portsmouth
+
+Studying Software Engineering at the University of Portsmouth.
+Working majoritively in javascript on multiple projects.
+
 
 <!--
 **UP2021407/UP2021407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
