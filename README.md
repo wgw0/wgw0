@@ -34,6 +34,8 @@ Public repos are available to view on my portfolio page: <b> [Portfolio Page](ht
 
 <p  align="center"><b>Email: <a  href="mailto:up2021407@myport.ac.uk">up2021407@myport.ac.uk</b></a></p>
 
+<div align="center">
+    <img alt="Most used languages widget" src="https://github-readme-stats.vercel.app/api/top-langs/?username=up2021407&amp;layout=compact&amp;theme=vision-friendly-dark">
+</div>
 
-![Most used languages widget](https://github-readme-stats.vercel.app/api/top-langs/?username=up2021407&layout=compact&theme=vision-friendly-dark)
 
