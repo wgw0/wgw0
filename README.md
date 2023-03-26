@@ -16,7 +16,7 @@ Most repos are private because they are linked to university work.
 
   
 
-Public repos are available to view on my portfolio page: <b> [Portfolio Page](https://up2021407.github.io/portfolio/) </b>
+Public repos are available to view on my portfolio page: <b> [Portfolio Page](https://wgw0.github.io/portfolio/) </b>
 
   
 
