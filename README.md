@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 🪐 About Me:
 🔭 I’m currently working on: WebApps based in JS. For my BSc in Software Engineering at the University of Portsmouth<br>👯 I’m looking to collaborate on: anything interesting.<br>🤝 I’m looking for help with: currently nothing.<br>🌱 I’m currently learning: Full Stack Web Development<br>💬 Ask me about: my current and future projects <br>
-
+🤖 [Portfolio Webpage](https://wgw0.github.io/portfolio/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/WillW#1522) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/w-woods/) 
