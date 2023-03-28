@@ -1,41 +1,15 @@
-
-# <p align ="center"> William Woods </p>
-
-
-### Studying Software Engineering at the University of Portsmouth.
+# 💫 About Me:
+🔭 I’m currently working on: WebApps based in JS. For my BSc in Software Engineering at the University of Portsmouth<br>👯 I’m looking to collaborate on: anything interesting.<br>🤝 I’m looking for help with: currently nothing.<br>🌱 I’m currently learning: Full Stack Web Development<br>💬 Ask me about: my current and future projects <br>
 
 
-<br></br>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/WillW#1522) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/w-woods/) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wgw0&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wgw0&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wgw0&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<b>Working majoritively in JavaScript on multiple projects.</b>
-
-  
-
-Most repos are private because they are linked to university work.
-
-  
-
-Public repos are available to view on my portfolio page: <b> [Portfolio Page](https://wgw0.github.io/portfolio/) </b>
-
-  
-
-<br></br>
-
-  
-
-<p  align="center">  <img  src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png"  width="80"></p>
-
-<p  align="center"><b>Discord: WillW#1522</b></p>
-
-  
-
-<p  align="center"><img  src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"  width="70"></p>
-
-<p  align="center"><b>Email: <a  href="mailto:up2021407@myport.ac.uk">up2021407@myport.ac.uk</b></a></p>
-
-<div align="center">
-    <img alt="Most used languages widget" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgw0&amp;layout=compact&amp;theme=vision-friendly-dark">
-</div>
-
-
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
