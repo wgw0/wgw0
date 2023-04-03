@@ -1,6 +1,23 @@
-# 🪐 About Me:
-🔭 I’m currently working on: WebApps based in JS. For my BSc in Software Engineering at the University of Portsmouth<br>👯 I’m looking to collaborate on: anything interesting.<br>🤝 I’m looking for help with: currently nothing.<br>🌱 I’m currently learning: Full Stack Web Development<br>💬 Ask me about: my current and future projects <br>
-🤖 [Portfolio Webpage](https://wgw0.github.io/portfolio/)
+## 🪐 Introduction
+
+Hi there, I'm a Software Engineering student at the University of Portsmouth.
+
+I am mostly working on WebApps that achieve something specific, like my University Grade Calculator and Predictor WebApp ([found here](https://github.com/NikBit101/dcalc_ext)). Or my Brand Sustainability Review WebApp ([found here](https://github.com/wgw0/sustainabilitychecker)).
+
+These sorts of projects allow me to create something beneficial and easily tangible, giving me perhaps an easier method of satisfaction :).
+
+## 💻 Projects
+
+As I mentioned before I work on WebApps. Most of the projects I am working on can be seen on my [portfolio webpage](https://wgw0.github.io/portfolio/) or , of course, on my GitHub profile.
+
+I am currently working on the aforementioned University Grade Calculator and Predictor WebApp.
+
+I try to work on projects that people can interact with in a way that gives them some information they feel makes their life easier or more rewarding. This is for a few reasons; firstly, who doesn't want their life to be easier. Secondly, I believe this is where we find purpose, identifying problems for people and fixing them is the job.
+
+## 🌱 Open-Source
+
+I like to occasionally review Pull Requests and participate in **Open-Source Repositories**.
+I have attempted to create some pull requests for the newly open source Twitter code. My work on that can be seen in my forked repo of the code [here](https://github.com/wgw0/twitter-algorithm).
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/316239277690322954) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/w-woods/) 
