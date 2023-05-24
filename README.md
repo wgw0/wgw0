@@ -20,7 +20,7 @@ I like to occasionally review Pull Requests and participate in **Open-Source Rep
 I have attempted to create some pull requests for the newly open source Twitter code. My work on that can be seen in my forked repo of the code [here](https://github.com/wgw0/twitter-algorithm).
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/316239277690322954) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/w-woods/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/316239277690322954) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/w-woods/)
 
 Sponsors page: [found here.](https://github.com/sponsors/wgw0)
 
