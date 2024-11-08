@@ -1,33 +1,27 @@
 ## 🪐 Introduction
 
-Hi there, I'm a Software Engineering student at the University of Portsmouth.
+Hi there, I'm a graduate of Software Engineering student from the University of Portsmouth.
 
-I am mostly working on WebApps that achieve something specific, like my University Grade Calculator and Predictor WebApp ([found here](https://github.com/NikBit101/dcalc_ext)). Or my Brand Sustainability Review WebApp ([found here](https://github.com/wgw0/sustainabilitychecker)).
+I have primarily worked on web applications, including projects like my University Grade Calculator and Predictor ([found here](https://github.com/NikBit101/dcalc_ext)) and a Brand Sustainability Review app ([found here](https://github.com/wgw0/sustainabilitychecker)). 
+
+But I also have experience in Python; with Artificial Intelligence, Nueral Network and Data Analysis.
+
+Currently, I’m focused on pursuing a career in business consulting. Feel free to check out my LinkedIn for more about my background and projects!
 
 
-## 💻 Projects
+## 💻 Projects & 🌱 Open-Source
 
-As I mentioned before I work on WebApps. Most of the projects I am working on can be seen on my [portfolio webpage](https://wgw0.github.io/portfolio/) or , of course, on my GitHub profile.
+As I mentioned before, I primarily work on WebApps. Most of my projects can be viewed on my [portfolio webpage](https://wgw0.github.io/portfolio/) or on my GitHub profile. I aim to create projects that offer users valuable information that can make their lives easier or more rewarding.
 
-I am currently working on the aforementioned University Grade Calculator and Predictor WebApp.
+I also enjoy contributing to **Open-Source Repositories** by reviewing pull requests and participating in collaborative projects. I've worked on creating pull requests for the open-sourced Twitter code, which have been reviewed and are still open; you can find them in my forked repository [here](https://github.com/wgw0/twitter-algorithm).
 
-I try to work on projects that people can interact with in a way that gives them some information they feel makes their life easier or more rewarding. 
-
-## 🌱 Open-Source
-
-I like to occasionally review Pull Requests and participate in **Open-Source Repositories**.
-I have attempted to create some pull requests for the newly open source Twitter code. My work on that can be seen in my forked repo of the code [here](https://github.com/wgw0/twitter-algorithm).
+I’ve also got experience in Python, working on projects involving AI, neural networks, and data analysis. I’ve done some scripting with C#, handled databases and management with SQL, and explored other frameworks and development environments.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/316239277690322954) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/w-woods/)
 
-Sponsors page: [found here.](https://github.com/sponsors/wgw0)
+You should check out my [LinkedIn](https://www.linkedin.com/in/w-woods/). I have all my projects on there, including a breakdown of some business analysis and consulting projects I have completed.
 
-# 💻 Tech Stack:
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wgw0&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wgw0&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wgw0&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/w-woods/)
+
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
