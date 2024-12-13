@@ -1,27 +1,52 @@
 ## 🪐 Introduction
 
-Hi there, I'm a graduate of Software Engineering student from the University of Portsmouth.
+Hi there! I'm William, I have a BSc (Hons) in Software Engineering from the University of Portsmouth. 
+My journey in the tech space has been marked by a strong focus on problem-solving, collaboration, and delivering impactful solutions across both government and private sectors. 
 
-I have primarily worked on web applications, including projects like my University Grade Calculator and Predictor ([found here](https://github.com/NikBit101/dcalc_ext)) and a Brand Sustainability Review app ([found here](https://github.com/wgw0/sustainabilitychecker)). 
+I thrive on tackling complex technical and analytical challenges and am particularly proud of:
 
-But I also have experience in Python; with Artificial Intelligence, Nueral Network and Data Analysis.
+- Leading a consulting project with the Defence School of Intelligence.
+- Presenting insights on organisational culture at the ACCU Conference.
+- Developing a University Grade Calculator WebApp.
+- Usability Analysis of Student Housing Websites for my dissertation.
 
-Currently, I’m focused on pursuing a career in business consulting. Feel free to check out my LinkedIn for more about my background and projects!
+I’m now excited to channel my skills and creativity into building innovative web solutions and contributing to meaningful projects in the tech industry.
 
+## 💻 Projects
 
-## 💻 Projects & 🌱 Open-Source
+I’ve worked extensively on web development projects, with a strong focus on creating user-friendly, scalable, and efficient solutions. My GitHub showcases a variety of projects, ranging from frontend design to backend development.
 
-As I mentioned before, I primarily work on WebApps. Most of my projects can be viewed on my [portfolio webpage](https://wgw0.github.io/portfolio/) or on my GitHub profile. I aim to create projects that offer users valuable information that can make their lives easier or more rewarding.
+Highlighted Projects:
 
-I also enjoy contributing to **Open-Source Repositories** by reviewing pull requests and participating in collaborative projects. I've worked on creating pull requests for the open-sourced Twitter code, which have been reviewed and are still open; you can find them in my forked repository [here](https://github.com/wgw0/twitter-algorithm).
+- **University Grade Calculator and Predictor WebApp**: A JavaScript-based tool for students to retrieve and visualise academic performance data, with predictive analysis capabilities.
+- **Sustainability Score WebApp**: A web scraper to assess and rate brands based on sustainability metrics.
+- **Usability Analysis of Student Housing Websites**: Conducted as part of my dissertation, involving user research and interface design improvements.
+- **Problem Solving Consulting for the Ministry of Defence**: Managed a team to deliver strategic recommendations on organisational challenges.
 
-I’ve also got experience in Python, working on projects involving AI, neural networks, and data analysis. I’ve done some scripting with C#, handled databases and management with SQL, and explored other frameworks and development environments.
+In addition to web development, I’ve explored other technical areas, including:
 
-## 🌐 Socials:
+- **Python**: Projects in AI, neural networks, and data analysis.
+- **C#**: Game Development, scripting and automation.
+- **SQL**: Database design and management.
+- **Frameworks and Tools**: Experience with a variety of development environments and frameworks to suit project requirements.
 
-You should check out my [LinkedIn](https://www.linkedin.com/in/w-woods/). I have all my projects on there, including a breakdown of some business analysis and consulting projects I have completed.
+Check out my repositories to see what I’ve been working on, and feel free to contribute or provide feedback!
+
+## 📜 Certifications
+
+- **Executive Diploma in Business Strategy**: [Certificate](https://www.udemy.com/certificate/UC-d7e09854-9cd1-4f82-be26-e8bace10a9bc/).
+- **Mission Driven Entrepreneurship: H4MoD Alumni Badge**: [Certificate](https://bcert.me/stthixlya).
+
+(I'm always hoping to increase this section!)
+
+## 🌐 Connect with Me
+
+I’m always open to networking, collaboration, and new opportunities. Visit my [LinkedIn](https://www.linkedin.com/in/w-woods/) for more detailed information about my projects, including business analysis and consulting work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/w-woods/)
 
+---
 
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
+Thanks for visiting my profile, and don’t hesitate to get in touch!
+
+<!-- Please contact me with any enquiries or error reports. -->
