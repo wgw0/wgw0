@@ -7,10 +7,9 @@ I thrive on tackling complex technical and analytical challenges and am particul
 
 - Leading a consulting project with the Defence School of Intelligence.
 - Presenting insights on organisational culture at the ACCU Conference.
-- Developing a University Grade Calculator WebApp.
 - Usability Analysis of Student Housing Websites for my dissertation.
 
-I’m now excited to channel my skills and creativity into building innovative web solutions and contributing to meaningful projects in the tech industry.
+I’m now excited to channel my skills and creativity into building innovative web technology solutions and contributing to meaningful projects in the industry.
 
 ## 💻 Projects
 
@@ -34,6 +33,7 @@ Check out my repositories to see what I’ve been working on, and feel free to c
 
 ## 📜 Certifications
 
+- **Google Analytics Certification**: [Certificate](https://skillshop.credential.net/f4b56d20-9195-466c-9e3c-b06ce72fee66#acc.16QIEMdc)
 - **Executive Diploma in Business Strategy**: [Certificate](https://www.udemy.com/certificate/UC-d7e09854-9cd1-4f82-be26-e8bace10a9bc/).
 - **Mission Driven Entrepreneurship: H4MoD Alumni Badge**: [Certificate](https://bcert.me/stthixlya).
 
