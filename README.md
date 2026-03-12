@@ -52,15 +52,7 @@ I am a **Technical Web Analyst** with a **First Class BSc (Hons) in Software Eng
 
 ---
 
-## 🚀 Experience & Impact
-
-### 🏟️ Data Engineering & Analytics @ Hookflash
-*Jan 2025 – Present*
-
-I act as the technical bridge for clients across **Sport, Retail, and Healthcare**, translating raw data into strategic assets.
-*   **Cloud Integration:** Architected a unified cloud environment for a top-tier football club by integrating **nine disparate data platforms**. This eliminated data silos and provided leadership with real-time visibility into engagement and commercial performance.
-*   **High-Scale Retail:** Managing the data analytics function for numerous retail clients with millions of monthly users, ensuring data integrity and actionable insights are available to drive marketing investment.
-*   **Predictive Modelling:** I developed forecasting models for a major charity which allowed them to plan budgets and resource allocation with greater certainty.
+## 🚀 Other Experience
 
 ### 🛡️ Strategic Consulting @ Ministry of Defence
 *Sept 2023 – Dec 2023*
