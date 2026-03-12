@@ -32,7 +32,7 @@
 
 I am a **Technical Web Analyst** with a **First Class BSc (Hons) in Software Engineering**. My work sits at the intersection of code, data, and business strategy. I specialise in untangling complex data environments to give organisations, from sports clubs to government defence schools, clear and actionable visibility.
 
-*   💼 **Work:** I am a Technical Web Analyst at **[Hookflash](https://hookflash.co.uk/?utm_source=github&utm_medium=profile&utm_campaign=wgw0)**, where I deliver end-to-end digital analytics solutions and performance insights for high-profile clients.
+*   💼 **Work:** I am a Technical Web Analyst at **[Hookflash](https://hookflash.co.uk/?utm_source=github&utm_medium=profile&utm_campaign=wgw0)**, where I deliver end-to-end data implementation and analaysis solutions for clients.
 *   📢 **Public Speaking:** I presented *["The Importance of Organisational Culture"](https://www.youtube.com/watch?v=eJv0touFMgg)* at the **ACCU 2024 Conference**.
 *   🎓 **Education:** BSc Software Engineering (First Class), University of Portsmouth.
 
